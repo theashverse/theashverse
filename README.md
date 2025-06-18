@@ -1,4 +1,4 @@
-![logo](https://github.com/theashverse/theashverse/blob/main/aYUSH%20GUPTA.png)
+![logo](https://github.com/theashverse/theashverse/blob/main/COMPUTER%20SCIENCE%20ENGINEER%20(3).png)
 
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">B.Tech CSE student | Exploring tech, creating projects, and growing one step at a time</h3>
